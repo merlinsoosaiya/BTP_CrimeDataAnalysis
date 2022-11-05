@@ -1,3 +1,3 @@
 # BTP_CrimeDataAnalysis
-BritishTransportPolice - An Analysis of Patterns in Crime - Jan2020-Jan2022 
-This is one of my course works of MSc. Data Analytics at De MontFort University, UK
+An Analysis of Patterns in Crime - British Transport Police - January2020-January2022 
+This is one of the course works of my Masters in Data Analytics
